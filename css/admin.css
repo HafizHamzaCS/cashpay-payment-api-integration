@@ -1,0 +1,11 @@
+.hma_img_picker img {
+    max-width: 100%;
+}
+
+select.form-control {
+    max-width: 100%;
+}
+
+#shortcode.column-shortcode {
+    width: 400px;
+}
